@@ -38,29 +38,12 @@ kkrunchy | https://github.com/farbrausch/fr_public/tree/master/kkrunchy
 工具名 | 下载地址
 -------- | -------
 32Lite | https://www.softpedia.com/get/Compression-tools/32LiTE.shtml
-BeRoEXEPacker | https://www.rosseaux.net/downloads/bep.zip【ZIP-password: beroexepacker】
+BeRoEXEPacker | https://www.rosseaux.net/downloads/bep.zip  【ZIP-password: beroexepacker】
 ANDpakk2 | http://and.intercon.ru/releases/tools/andpakk2/
 exe32pack | https://exe32pack.apponic.com/
 Alternate EXEPacker | https://alternate-exe-packer.software.informer.com/download/?cad5b39
 FSG | https://www.softpedia.com/get/Programming/Other-Programming-Files/Unpacker-for-FSG.shtml
 MEW | https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/MEW-SE.shtml
-eXPressor |		
-NeoLite |
-Obsidium |
-PECompac |
-PELock |		
-PEncrypt |
-PEPack |	
-PKLite32 |			
-Pohernah Crypter |		
-RLPack Basic |			
-Smart Packer Pro X |			
-Telock |				
-Xcomp(Xpack) |				
-YZPack |					
-CExe |					
-BIN-crypte |				
-MuCruncher |					
 ASPac | http://ch.aspack.com/
 Morphine |					
 MPRESS | https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/MPRESS.shtml
@@ -79,4 +62,22 @@ BoxedApp packer	|
 dotBundle | https://dotbundle.software.informer.com/
 Enigma Protector | https://enigmaprotector.cn/
 EXE Bundle |
+eXPressor |		
+NeoLite |
+Obsidium |
+PECompac |
+PELock |		
+PEncrypt |
+PEPack |	
+PKLite32 |			
+Pohernah Crypter |		
+RLPack Basic |			
+Smart Packer Pro X |			
+Telock |				
+Xcomp(Xpack) |				
+YZPack |					
+CExe |					
+BIN-crypte |				
+MuCruncher |					
+
 
