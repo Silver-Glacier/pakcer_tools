@@ -38,7 +38,7 @@ kkrunchy | https://github.com/farbrausch/fr_public/tree/master/kkrunchy
 工具名 | 下载地址
 -------- | -------
 32Lite | https://www.softpedia.com/get/Compression-tools/32LiTE.shtml
-BeRoEXEPacker | kkrunchy | https://github.com/farbrausch/fr_public/tree/master/kkrunchy 【ZIP-password: beroexepacker】
+BeRoEXEPacker | https://www.rosseaux.net/downloads/bep.zip【ZIP-password: beroexepacker】
 ANDpakk2 | http://and.intercon.ru/releases/tools/andpakk2/
 exe32pack | https://exe32pack.apponic.com/
 Alternate EXEPacker | https://alternate-exe-packer.software.informer.com/download/?cad5b39
