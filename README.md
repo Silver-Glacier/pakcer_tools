@@ -1,83 +1,23 @@
-# pakcer_tools
-常见二进制加壳工具汇总
-## 以下为个人收集工业界常见加壳工具列表以及开源地址，欢迎大家补充🎉🎉🎉
-## ✨开源
-工具名 | 项目地址
--------- | -------
-UPX | https://upx.github.io/
-ConfuerEx | https://github.com/mkaring/ConfuserEx
-Amber | https://github.com/EgeBalci/amber/releases
-Crinkler | https://github.com/runestubbe/Crinkler
-ELFcrypt | https://github.com/droberson/ELFcrypt
-elfuck | https://github.com/timhsutw/elfuck
-Eronana packer | https://github.com/Eronana/packer
-Ezuri | https://github.com/guitmz/ezuri/tree/master
-hXOR-packer | https://github.com/rurararura/hXOR-Packer
-m0dern_p4cker | https://github.com/n4sm/m0dern_p4cker
-midegetpack | https://github.com/arisada/midgetpack
-netcrypt | https://github.com/friedkiwi/netcrypt
-origami | https://github.com/dr4k0nia/Origami
-pakkero | https://github.com/89luca89/pakkero
-pakr | https://github.com/iangcarroll/pakr
-papaw | https://github.com/dimkr/papaw
-Amber | https://github.com/EgeBalci/amber/releases
-ConfuerEx | https://github.com/mkaring/ConfuserEx
-Crinkler | https://github.com/runestubbe/Crinkler
-ELFcrypt | https://github.com/droberson/ELFcrypt
-elfuck | https://github.com/timhsutw/elfuck
-Eronana packer | https://github.com/Eronana/packer
-Ezuri | https://github.com/guitmz/ezuri/tree/master
-ward | https://github.com/ex0dus-0x/ward
-xorPacker | https://github.com/nqntmqmqmb/xorPacker
-Morphine | https://github.com/claudiouzelac/rootkit.com/tree/master/hf/Morphine27
-Crinkler | https://github.com/runestubbe/Crinkler
-kkrunchy | https://github.com/farbrausch/fr_public/tree/master/kkrunchy
-## ✨非开源
-> 其中很多工具已经是上个时代的产物，难以找到下载地址，且很多只能在win7、winxp上运行
+### 💻💻恶意软件样本库💻💻
 
-工具名 | 下载地址
--------- | -------
-32Lite | https://www.softpedia.com/get/Compression-tools/32LiTE.shtml
-BeRoEXEPacker | https://www.rosseaux.net/downloads/bep.zip  【ZIP-password: beroexepacker】
-ANDpakk2 | http://and.intercon.ru/releases/tools/andpakk2/
-exe32pack | https://exe32pack.apponic.com/
-Alternate EXEPacker | https://alternate-exe-packer.software.informer.com/download/?cad5b39
-FSG | https://www.softpedia.com/get/Programming/Other-Programming-Files/Unpacker-for-FSG.shtml
-MEW | https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/MEW-SE.shtml
-ASPac | http://ch.aspack.com/
-Morphine |					
-MPRESS | https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/MPRESS.shtml
-NsPack |
-PESpin | http://downloads.fyxm.net/PESpin-95477.html
-Petite | https://www.un4seen.com/petite/
-Themida | https://www.oreans.com/download.php
-VMProtect | https://vmpsoft.com/vmprotect/overview/
-WWPack32 |					
-Yoda's Crypto | https://sourceforge.net/projects/yodap/
-ASProtect |					
-Armadillo | http://adn.bioinfo.uqam.ca/armadillo/download.html
-.netshrink | https://www.pelock.com/products/netshrink/download
-Alienyze | https://alienyze.com/
-BoxedApp packer	|				
-dotBundle | https://dotbundle.software.informer.com/
-Enigma Protector | https://enigmaprotector.cn/
-EXE Bundle |
-eXPressor |		
-NeoLite |
-Obsidium |
-PECompac |
-PELock |		
-PEncrypt |
-PEPack |	
-PKLite32 |			
-Pohernah Crypter |		
-RLPack Basic |			
-Smart Packer Pro X |			
-Telock |				
-Xcomp(Xpack) |				
-YZPack |					
-CExe |					
-BIN-crypte |				
-MuCruncher |					
+*收集用于分析的恶意软件样本*
 
-
+* [Clean MX](http://support.clean-mx.de/clean-mx/viruses.php) - 恶意软件和恶意域名的实时数据库
+* [Contagio](http://contagiodump.blogspot.com/) - 近期的恶意软件样本和分析的收集
+* [Exploit Database](https://www.exploit-db.com/) - Exploit 和 shellcode 样本
+* [Infosec - CERT-PA](https://infosec.cert-pa.it/analyze/submission.html) - 恶意软件样本收集与分析
+* [InQuest Labs](https://labs.inquest.net) - 恶意 Microsoft 文档语料库
+* [Javascript Mallware Collection](https://github.com/HynekPetrak/javascript-malware-collection) - 收集了将近四万个 JavaScript 恶意样本
+* [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - 为调查恶意软件提供快速可识别、可操作的上下文资源
+* [Malshare](https://malshare.com) - 在恶意网站上得到的大量恶意样本库
+* [Open Malware Project](http://openmalware.org/) - 样本信息和下载
+* [Ragpicker](https://github.com/robbyFux/Ragpicker) - 基于 malware crawler 的一个插件
+* [theZoo](https://github.com/ytisf/theZoo) - 分析人员的实时恶意样本库
+* [Tracker h3x](http://tracker.h3x.eu/) - Agregator 的恶意软件跟踪和下载地址
+* [vduddu malware repo](https://github.com/vduddu/Malware) - 多种恶意软件文件与源码收集
+* [VirusBay](https://beta.virusbay.io/) - 基于社区的恶意软件仓库
+* [ViruSign](http://www.virussign.com/) - 除 ClamAV 外的反病毒程序检出的恶意软件数据库
+* [VirusShare](http://virusshare.com/) - 恶意软件库
+* [VX Vault](http://vxvault.net/) - 恶意软件样本的主动收集
+* [Zeltser's Sources](https://zeltser.com/malware-sample-sources/) - 由 Lenny Zeltser 整理的恶意软件样本源列表
+* [Zeus Source Code](https://github.com/Visgean/Zeus) - 2011 年 Zeus 源码泄露
